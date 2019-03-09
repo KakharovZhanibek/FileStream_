@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStream", "FileStream\FileStream.csproj", "{FCAD49BC-E120-4830-8D11-A5741EE2FA9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonachi", "Fibonachi\Fibonachi.csproj", "{0BE4FA90-73E8-4650-B1CA-728E288BD153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "ConsoleApp1\Sum.csproj", "{635AC661-7C15-40DD-AA0C-6E60B7F32AD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCAD49BC-E120-4830-8D11-A5741EE2FA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAD49BC-E120-4830-8D11-A5741EE2FA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAD49BC-E120-4830-8D11-A5741EE2FA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAD49BC-E120-4830-8D11-A5741EE2FA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE4FA90-73E8-4650-B1CA-728E288BD153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE4FA90-73E8-4650-B1CA-728E288BD153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE4FA90-73E8-4650-B1CA-728E288BD153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE4FA90-73E8-4650-B1CA-728E288BD153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635AC661-7C15-40DD-AA0C-6E60B7F32AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635AC661-7C15-40DD-AA0C-6E60B7F32AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635AC661-7C15-40DD-AA0C-6E60B7F32AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635AC661-7C15-40DD-AA0C-6E60B7F32AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {603C119F-A8C6-4B03-9D70-DCF886E9C57C}
+	EndGlobalSection
+EndGlobal
